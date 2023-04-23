@@ -6,4 +6,4 @@ Este é um projeto bem simples, onde a principal ideia é apenas praticar evento
 
 ![Captura de Tela (67)](https://user-images.githubusercontent.com/108766424/233856551-29a7167f-c800-4d32-91de-2e1b1552c68b.png)
 
-![Captura de Tela (66)](https://user-images.githubusercontent.com/108766424/233856533-06d0abec-8941-43c0-ae8b-393d0ace8067.png)
+![Captura de Tela (69)](https://user-images.githubusercontent.com/108766424/233856690-3b0c5749-82c4-4d7d-a8a0-8ebeb79eb775.png)
