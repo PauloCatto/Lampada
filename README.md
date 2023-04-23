@@ -1,4 +1,4 @@
-# Lampada
+# Lâmpada
 
 Este é um projeto bem simples, onde a principal ideia é apenas praticar eventos de clique e de mouse.
 
