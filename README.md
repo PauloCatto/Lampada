@@ -1,6 +1,6 @@
 # Lâmpada
 
-Este é um projeto bem simples, onde a principal ideia é apenas praticar eventos de clique e de mouse.
+Este é um projeto simples, onde a ideia é praticar eventos de clique e mouse.
 
 Link para teste: https://paulocatto.github.io/Lampada/
 
